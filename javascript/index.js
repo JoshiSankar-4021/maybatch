@@ -399,6 +399,8 @@ three()
         def()
 var output =def()
 console.log(output)
+console.log(output)
+
 
 
 
